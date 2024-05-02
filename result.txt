@@ -1,0 +1,6 @@
+Balanced: (TP, TN, FP, FN, precision, recall, acc, f_score) = (183, 216, 119, 121, 0.60596, 0.60197, 0.62441, 0.60396)
+Model: (TP, TN, FP, FN, precision, recall, acc, f_score) = (55, 294, 41, 249, 0.57291, 0.18092, 0.54616, 0.5275)
+cluster_model_regression: (TP, TN, FP, FN, precision, recall, acc, f_score) = (56, 299, 36, 248, 0.60869, 0.18421, 0.55555, 0.28282)
+cluster_model_NB: (TP, TN, FP, FN, precision, recall, acc, f_score) = (228, 129, 206, 76, 0.52534, 0.75, 0.55868, 0.61788)
+grouped_words_regression: (TP, TN, FP, FN, precision, recall, acc, f_score) = (138, 241, 94, 166, 0.59482, 0.45394, 0.61311, 0.51492)
+grouped_words_NB: (TP, TN, FP, FN, precision, recall, acc, f_score) = (159, 212, 123, 145, 0.56382, 0.52302, 0.6059, 0.54266)
